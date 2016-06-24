@@ -1,0 +1,18 @@
+/*
+*title:Really Useful hacks that have saved me lots of time
+*Author: John Marlett
+*/
+
+Windows error cannot delete because path name is too long: [
+
+    Example: If you have a folder path that's too long such as:
+    
+    follow these instructions to delete it.
+
+    Create an empty folder, such as C:\Users\Name\Desktop\temp.
+    in command prompt type:
+    
+    robocopy C:\Users\Name\Desktop\temp D:\BackupFolder /purge
+    
+    Note: If there are spaces in either path in Step 3, the path must be inclosed by quotation marks.  
+    Used: In Cmder to clear out node_dependencies worked like a charm ]

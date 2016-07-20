@@ -16,3 +16,17 @@ Windows error cannot delete because path name is too long: [
     
     Note: If there are spaces in either path in Step 3, the path must be inclosed by quotation marks.  
     Used: In Cmder to clear out node_dependencies worked like a charm ]
+
+Vim editing: 
+   arrows for navigation
+   insert key to start editing
+   esc to stop
+   :w  to save
+   :q to quit vim
+
+   vim <newfilename> creates a new file and opens for editing
+
+command line:  
+   mkdir - creates folder
+   rm <filename>  - deletes a file
+   

@@ -30,3 +30,7 @@ command line:
    mkdir - creates folder
    rm <filename>  - deletes a file
    
+Node and npm :
+  to upgrade:  npm update npm -g
+  if that does not work on Windows try:  npm install npm@latest -g (worked to bring npm from 2.X.X. to 3.X.X in Win10 OS)
+
